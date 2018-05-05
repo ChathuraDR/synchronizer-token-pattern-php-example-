@@ -1,1 +1,2 @@
-# synchronizer-token-pattern-php-example-
+## synchronizer token pattern (php) example
+
